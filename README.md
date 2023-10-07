@@ -21,7 +21,7 @@
 
 **Usage**:
 
-1. Launch `msender` by running the `msender.py` script.
+1. Launch `msender` by running the `python3 msender.py` script.
 2. Input the receiver's host address in the "Receiver Host" field. This can be an IP address or hostname.
 3. Specify the receiver's listening port in the "Receiver Port" field.
 4. Click the "Browse" button to select the file you wish to send.
